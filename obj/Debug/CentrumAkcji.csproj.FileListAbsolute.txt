@@ -1,0 +1,9 @@
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\bin\Debug\CentrumAkcji.exe.config
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\bin\Debug\CentrumAkcji.exe
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\bin\Debug\CentrumAkcji.pdb
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\obj\Debug\CentrumAkcji.csprojAssemblyReference.cache
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\obj\Debug\CentrumAkcji.Properties.Resources.resources
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\obj\Debug\CentrumAkcji.csproj.GenerateResource.cache
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\obj\Debug\CentrumAkcji.exe
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\obj\Debug\CentrumAkcji.pdb
+C:\Users\table\source\repos\CentrumAkcji\CentrumAkcji\obj\Debug\CentrumAkcji.Form1.resources
